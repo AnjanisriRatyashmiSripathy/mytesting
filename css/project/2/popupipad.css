@@ -1,0 +1,59 @@
+body
+{
+     font-family: 'Times New Roman', Times, serif;
+ } 
+button
+ {
+     border:2px solid ;
+     color:white;
+     background-color:#00A5EC;
+     font-size: 16px;
+     cursor: pointer;
+     height:40px;
+     width:150px;
+ }
+ a
+ {
+     color: #858585;
+     text-decoration: none;
+     font-size:larger;
+ 
+ }
+ iframe
+ {
+     width: 100%;
+     height: 100vh;
+     position: absolute;
+     filter: blur(5px);      
+ }
+ input
+ {
+     background-color: #7B7B7B29;
+ }
+ .grid
+ {
+    display: grid;
+    grid-template-columns: auto auto;
+    position: absolute;
+    top:240px;
+    left: 250px;
+    width: 250px;
+    padding: 20px;
+    border: 4px solid #7B7B7B29;
+    background-color: white;
+ }
+ .griditem1
+ {
+    grid-row: 3 / 4;
+    grid-column: 1 / 3; 
+ }
+ .griditem2
+ {
+    grid-row: 4 / 4;
+    text-align: center;
+ }
+ hr
+ {
+     height: 1px;
+     width: 250px;
+ }

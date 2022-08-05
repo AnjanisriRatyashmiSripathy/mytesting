@@ -1,0 +1,21 @@
+p
+    {
+        color:maroon ;
+        font-size: 14px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+a
+    {
+        color: maroon;
+        text-decoration: none;
+        font-size: small;
+        background-color: yellow;
+    }
+.a
+    {
+        background-color: yellow;
+    }
+ul
+    {
+      letter-spacing: 5px;  
+    }

@@ -1,0 +1,78 @@
+html
+{
+   background-color: #F7F7F7;
+   font-family: 'Times New Roman', Times, serif;
+}
+h1
+{
+    position: relative;
+    right: 50px;
+    margin-left: 100px;
+    font-size: 40px;
+    background-color: white;
+}
+.task
+{
+    background-color: #7B7B7B29;
+    margin: 0px 50px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+.plus
+{
+    position: relative;
+    top: 30px;
+    left: 1175px ;
+    padding: 20px; 
+    font-size: 22px;
+}
+.flex
+{
+    display: flex;
+    background-color: #7B7B7B29;
+    margin: 0px 50px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.strike
+{
+    text-decoration: line-through;
+    color: #c2c2c2;
+}
+.head
+{
+    color: #00A5EC;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.item
+{
+   margin: 25px;
+   padding: 25px;
+   Width: 250px;
+   height: 200px;
+   border: 2px solid white;
+   background-color: white;
+   border-radius: 15px;
+   text-align: left;
+}
+p
+{
+    font-size: 18;
+}
+a
+{
+    text-decoration: none;
+    cursor: pointer;
+    color: #00A5EC;
+}
+.arrow
+{
+    position: relative;
+    top: -15px;
+    left: 75px ;
+    padding: 20px; 
+    font-size: 22px;
+    color: black;
+}
